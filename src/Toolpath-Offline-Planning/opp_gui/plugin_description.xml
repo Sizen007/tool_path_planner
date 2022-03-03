@@ -1,0 +1,9 @@
+<library path="lib/libopp_gui_panels">
+  <class name="opp_gui/ToolPathPlannerPanel"
+         type="opp_gui::ToolPathPlannerPanel"
+         base_class_type="rviz::Panel">
+    <description>
+      A panel for creating registration and tool path data for new models
+    </description>
+  </class>
+</library>
